@@ -1,0 +1,8 @@
+filename,area,perimeter,aspect_ratio,extent,circularity,label
+01.jpg,993,602,0.61,0.02,0.03,bulat
+bulat1.jpg,20238,1793,2.25,0.24,0.08,bulat
+02.jpg,136595,1711,1.0,0.52,0.59,persegi
+05.jpg,111170,6548,0.7,0.65,0.03,persegi
+persegi1.jpg,63387,14909,0.4,0.6,0.0,persegi
+persegi2.jpg,67347,19536,0.65,0.4,0.0,persegi
+persegi3.jpg,53386,19867,2.5,0.51,0.0,persegi
